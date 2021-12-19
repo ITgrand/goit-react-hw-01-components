@@ -2,7 +2,7 @@
   "name": "test-react-run",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ITgrand.github.io/test-react-run",
+  "homepage": "https://ITgrand.github.io/goit-react-hw-01-components",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
