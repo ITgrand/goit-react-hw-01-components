@@ -1,8 +1,7 @@
 import PropTypes from "prop-types";
 import Profile from "./Profile";
-import user from "./user.json";
 
-function ProfileList(props) {
+function ProfileList({ user }) {
   return (
     <div>
       <Profile
